@@ -9,6 +9,8 @@
   
 ## 轮子仓库
    - iset(利用反射获取注解里的值,并赋值给对象)名副其实的玩具,初期学习写的: https://github.com/malred/myConstruct
+   - IPersistence(DIY orm框架): https://github.com/malred/IPersistence
+
 
 
 ## 备忘: 
