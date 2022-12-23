@@ -19,6 +19,7 @@
    - IPersistence(DIY orm框架): https://github.com/malred/IPersistence
    - minicat(实现mini服务器): https://github.com/malred/minicat 
    - micro-mvc(实现mvc两个组件,B站图灵课堂): https://github.com/malred/micro-mvc
+   - iocAndAop(银行转账案例实现ioc和aop): https://github.com/malred/iocAndAop
 
    
    ### 前端
