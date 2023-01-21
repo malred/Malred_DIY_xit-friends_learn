@@ -25,6 +25,7 @@
    ### 前端
    
    - [iroute](https://github.com/malred/iroute) 手写实现简单history模式的vue-route
+   - [generator-malred](https://github.com/malred/generator-malred) 前端脚手架,支持生成next13,nuxt,eggjs,single-spa,electron-vue3
 
 
    ### 开发基座
