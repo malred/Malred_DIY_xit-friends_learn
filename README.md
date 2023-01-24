@@ -32,6 +32,7 @@
      
    - [flutter-base](https://github.com/malred/flutter_base) flutter开发基座
    - [electron-vue3-vite-base](https://github.com/malred/electron-vue3-vite-base) vue3+electron的开发基座
+   - [micro-java-base](https://github.com/malred/micro-java-base) java微服务开发基座(整合nacos,sentinel,seata,sleuth,zipkin,openfeign,gateway)
    
    
    
