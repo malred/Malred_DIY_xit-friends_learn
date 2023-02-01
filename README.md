@@ -21,7 +21,6 @@
    - [micro-mvc](https://github.com/malred/micro-mvc) 实现mvc两个组件,B站图灵课堂
    - [iocAndAop](https://github.com/malred/iocAndAop) 银行转账案例实现ioc和aop
    - [imvc](https://github.com/malred/imvc) 实现mini版mvc
-   - [minivue](https://github.com/malred/minivue) 实现mini版vue(没有实现虚拟dom)
 
 
    
@@ -29,6 +28,7 @@
    
    - [iroute](https://github.com/malred/iroute) 手写实现简单history模式的vue-route
    - [generator-malred](https://github.com/malred/generator-malred) 前端脚手架,支持生成next13,nuxt,eggjs,single-spa,electron-vue3
+   - [minivue](https://github.com/malred/minivue) 实现mini版vue(没有实现虚拟dom)
 
 
 
