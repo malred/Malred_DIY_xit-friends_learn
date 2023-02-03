@@ -30,7 +30,8 @@
    - [generator-malred](https://github.com/malred/generator-malred) 前端脚手架,支持生成next13,nuxt,eggjs,single-spa,electron-vue3
    - [minivue](https://github.com/malred/minivue) 实现mini版vue(没有实现虚拟dom)
    - [minireact](https://github.com/malred/mini-react) 实现react的简单组件渲染(没有实现fiber)
-
+   - [myJq](https://github.com/malred/myJq) 手写简易版jq
+   
 
 
    ### 开发基座
@@ -40,7 +41,18 @@
    - [micro-java-base](https://github.com/malred/micro-java-base) java微服务开发基座(整合nacos,sentinel,seata,sleuth,zipkin,openfeign,gateway)
    
    
+## 开发工具库
+
+   ### 后端
+   - [malred-web-common](https://github.com/malred/malred-web-common) java的web项目工具库
+   - [malred-utils](https://github.com/malred/malred-utils) jdk11开发工具库
    
+   
+   
+   ### 前端
+
+
+
 ## 设计模式仓库
 
 
