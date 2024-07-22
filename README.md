@@ -21,6 +21,7 @@
    - [micro-mvc](https://github.com/malred/micro-mvc) 实现mvc两个组件,B站图灵课堂
    - [iocAndAop](https://github.com/malred/iocAndAop) 银行转账案例实现ioc和aop
    - [imvc](https://github.com/malred/imvc) 实现mini版mvc
+   - [mal-orm](https://github.com/malred/IFullORM) orm框架升级版
    
 
    
