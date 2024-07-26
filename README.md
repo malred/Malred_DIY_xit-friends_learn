@@ -12,7 +12,8 @@
   
   
 ## 轮子仓库
-
+### 人工智能
+- [手写机器学习](https://gitee.com/malguy/hands-on-machine-learning/tree/master)
    ### 后端
    
    - [iset](https://github.com/malred/myConstruct) 利用反射获取注解里的值,并赋值给对象,名副其实的玩具,初期学习写的 
