@@ -12,8 +12,17 @@
   
   
 ## 轮子仓库
-### 人工智能
-- [手写机器学习](https://gitee.com/malguy/hands-on-machine-learning/tree/master)
+   ### 人工智能
+   
+   - [手写机器学习](https://gitee.com/malguy/hands-on-machine-learning/tree/master)
+   - [对手学深度学习-python-斋藤康毅, 笔记](https://gitee.com/malguy/deep-learn-from-scratch)
+
+   ### 编译原理
+
+   - [golang写编译器, 笔记](https://github.com/malred/malang-compiler)
+   - [eva-js, 笔记](https://gitee.com/malguy/eva-lang)
+   - [golang写解释器, 笔记](https://github.com/malred/malang)
+     
    ### 后端
    
    - [iset](https://github.com/malred/myConstruct) 利用反射获取注解里的值,并赋值给对象,名副其实的玩具,初期学习写的 
@@ -33,6 +42,8 @@
    - [minivue](https://github.com/malred/minivue) 实现mini版vue(没有实现虚拟dom)
    - [minireact](https://github.com/malred/mini-react) 实现react的简单组件渲染(没有实现fiber)
    - [myJq](https://github.com/malred/myJq) 手写简易版jq
+   - [vue组件库](https://gitee.com/malguy/mal-vue-component)
+   - [react组件库](https://gitee.com/malguy/mal-react-component)
    
 
 
