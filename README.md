@@ -44,6 +44,7 @@
    - [myJq](https://github.com/malred/myJq) 手写简易版jq
    - [vue组件库](https://gitee.com/malguy/mal-vue-component)
    - [react组件库](https://gitee.com/malguy/mal-react-component)
+   - [珠峰vue3课, 笔记](https://gitee.com/malguy/zf-vue3)
    
 
 
