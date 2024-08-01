@@ -45,6 +45,8 @@
    - [vue组件库](https://gitee.com/malguy/mal-vue-component)
    - [react组件库](https://gitee.com/malguy/mal-react-component)
    - [珠峰vue3课, 笔记](https://gitee.com/malguy/zf-vue3)
+   - [lagou手写react-ssr](https://gitee.com/malguy/react_ssr)
+   - [lagou手写vue-ssr](https://gitee.com/malguy/lagou-bigfront)
    
 
 
